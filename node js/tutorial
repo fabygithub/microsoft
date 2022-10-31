@@ -1,1 +1,36 @@
+prerequisites
+use in visual studio code
+create first node web app using express
+use a node.js module
+
+help you to get started with some basics.
+we recommend installing directly on Windows.
+installed Visual Studio Code
+
+1 Open your command line and create a new directory: mkdir HelloNode, then enter the directory: cd HelloNode
+
+new directory: mkdir HelloNode
+enter : cd HelloNode
+
+Create a JavaScript file named "app.js" 
+Open the directory and your app.js file in VS Code using the command: code .
+
+Create your first NodeJS web app using Express
+easier to develop a web app that can handle multiple types of requests
+
+GET, PUT, POST, and DELETE
+automatically create a file architecture for your app.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
