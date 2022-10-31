@@ -21,6 +21,9 @@ easier to develop a web app that can handle multiple types of requests
 GET, PUT, POST, and DELETE
 automatically create a file architecture for your app.
 
+mkdir ExpressProjects
+
+Use Express to create a HelloWorld project template: npx express-generator HelloWorld --view=pug
 
 
 
